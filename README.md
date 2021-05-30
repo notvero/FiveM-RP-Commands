@@ -8,7 +8,10 @@
 > This Script is released by vero#9999 and is Free of charge. 
 
 **By Downloading you agree!** [Any guidline could change per request of vero or Management.]
-> You may use this script as Open Source on any of your projects, You must Credit me.
-> Dont lightly edit this script and release it as your own, You must atleast get approval from vero himself.
-> Dont say you created this in anyway shape or form.
-> Do not release this script as paid for, Dosent matter if you are releasing this heavily edited. You can get permission from vero and this Guideline could Change.
+> 1. You may use this script as Open Source on any of your projects, You must Credit me.
+
+> 2. Dont lightly edit this script and release it as your own, You must atleast get approval from vero himself.
+
+> 3. Dont say you created this in anyway shape or form.
+
+> 4. Do not release this script as paid for, Dosent matter if you are releasing this heavily edited. You can get permission from vero and this Guideline could Change.
